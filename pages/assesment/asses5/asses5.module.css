@@ -1,0 +1,464 @@
+.container{
+ 
+
+  margin-top: 50px;
+  
+  width: 1440px;
+  height: 838px;
+  
+  
+  /* BGG */
+  
+  background: #FAFBFC;
+  /* light */
+  
+  box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+  }
+  .line2{
+    width: 282px;
+    height: 0px;
+    left: 0px;
+    margin-top: 50px;
+    background: #456DD3;
+  /* bluee */
+  
+  border: 1px solid #456DD3;
+  }
+  .npeople{
+    width: 500px;
+  height: 141px;
+  left: 120px;
+  top: 609px;
+  
+  background: #FFFFFF;
+  border-radius: 0px 0px 5px 5px;
+  }
+  .backarrow{
+    margin-top:13px ;
+    margin-left: 120px;
+    margin-bottom:0% ;
+    border: none;
+    background: #FAFBFC;
+  }
+  .new{
+    width: 253px;
+  height: 33px;
+  margin-left: 13.5px;
+  margin-top: 13px;
+  margin-bottom: 0%;
+  
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 33px;
+  /* identical to box height */
+  
+  
+  /* bbbbbbbb */
+  
+  color: #464255;
+  }
+  .nextarrow{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px 15px;
+gap: 5px;
+
+width: 207px;
+height: 53px;
+
+
+background: #456DD3;
+border-radius: 5px;
+    margin-top:13px ;
+    margin-left: 700px;
+    margin-bottom:0% ;
+    border: none;
+    background: #FAFBFC;
+  }
+  .poly1{
+    margin-top:26px ;
+    margin-left: 161px;
+    margin-bottom:0% ; 
+  }
+  .line1{
+    width: 250px;
+  height: 0px;
+  margin-left: 0px;
+  margin-top: 49.5px;
+  margin-bottom:0% ; 
+  
+  /* grey */
+  
+  border: 1px solid #D9D9D9;
+  }.poly2{
+    margin-top:26px ;
+    margin-left: 0%;
+    margin-bottom:0% ; 
+  }
+  .p1{
+    width: 132px;
+    height: 22px;
+    margin-left: 120px;
+    margin-top: 23px;
+    margin-bottom:0% ; 
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    /* identical to box height */
+    
+    
+    color: #456DD3;
+  }
+  .p2{
+    width: 76px;
+  height: 22px;
+  margin-left: 230px;
+  margin-top: 23px;
+  
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  /* identical to box height */
+  
+  
+  /* bbbbbbbb */
+  
+  color:#456DD3;
+  }
+  .p3{
+    width: 104px;
+  height: 22px;
+  margin-left: 212px;
+  margin-top: 23px;
+  
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  /* identical to box height */
+  
+  
+  /* bbbbbbbb */
+  color: #456DD3;
+  }
+  .p4{
+    width: 127px;
+  height: 22px;
+  margin-left: 187px;
+  margin-top: 23px;
+  
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  /* identical to box height */
+  
+  
+  /* bbbbbbbb */
+  
+  color: #464255;
+  }
+.ql{
+  width: 122px;
+height: 25px;
+margin-left: 659px;
+margin-top: 50px;
+margin-bottom: 0%;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 25px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.sl{
+  width: 141px;
+  height: 22px;
+  
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 22px;
+  /* identical to box height */
+  
+  
+  /* bbbbbbbb */
+  
+  color: #464255;
+  
+margin-left: 120px;
+margin-top: 10px;
+margin-bottom: 0%;
+
+
+}
+.canadd{
+  width: 375px;
+height: 22px;
+margin-left: 120px;
+margin-top: 30px;
+margin-bottom: 0%;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+
+
+/* bbbbbbbb */
+
+color: #464255;
+}
+.qtb{
+  box-sizing: border-box;
+
+
+width: 1035px;
+height: 125px;
+margin-left: 120px;
+margin-top: 5px;
+margin-bottom: 0%;
+/* Stokeee */
+
+border: 1px solid #E0E4EC;
+/* light */
+
+filter: drop-shadow(0px 1px 5px rgba(0, 0, 0, 0.25));
+border-radius: 5px;
+}
+.scbutton{
+  position: absolute;
+  width: 250px;
+  height: 100px;
+ margin-left: 150px;
+ margin-top: 25px;
+ background: #E0E4EC;
+  border-radius: 10px;
+  border: none;
+}
+.scp
+{
+  display: flex;
+  width: 122px;
+height: 27px;
+margin-left: 0px;
+margin-top: 37px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 27px;
+
+/* 22222 */
+
+color: #222222;
+}
+.sc
+{
+  display: flex;
+  width: 56px;
+height: 50px;
+margin-left: 25px;
+margin-bottom: 25px;
+margin-top: 25px;
+}
+.info
+{
+  padding-top: 2px;
+}
+.vcp
+{
+  display: flex;
+  width: 122px;
+height: 27px;
+margin-left: 5px;
+margin-top: 37px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 27px;
+
+/* 22222 */
+
+color: #222222;
+}
+.videoque
+{
+  width: 250px;
+  height: 100px;
+  margin-left: 0px;
+  margin-top: 50px;
+  background: #E0E4EC;
+  border-radius: 10px;
+  border: none;
+}
+.vc{
+  display: flex;
+  width: 56px;
+height: 50px;
+margin-left: 65px;
+margin-bottom: 25px;
+margin-top: 25px;
+}
+.fabutton
+{
+  width: 250px;
+height: 100px;
+margin-left: 150px;
+margin-top: 50px;
+margin-right: 50px;
+background: #E0E4EC;
+border-radius: 10px;
+border: none;
+}
+.cbutton{
+  width: 250px;
+height: 100px;
+margin-left: 50px;
+margin-top:25px;
+border-radius: 10px;
+background: #E0E4EC;
+border: none;
+}
+.mcbutton
+{
+width: 250px;
+height: 100px;
+margin-left: 450px;
+margin-top: 25px;
+border-radius: 10px;
+background: #E0E4EC;
+border: none;
+}
+.mc{
+  display: flex;
+  width: 56px;
+height: 50px;
+margin-left: 15px;
+margin-bottom: 25px;
+margin-top: 25px;
+}
+.mcp
+{
+  display: flex;
+  width: 140px;
+height: 27px;
+padding-top: 30px;
+padding-left: 0%;
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+
+/* 22222 */
+
+color: #222222;
+}
+.backb{
+  margin-top: 15px;
+  margin-left: 1236px;
+  margin-bottom: 0%;
+  border: none; 
+  background: #FAFBFC;
+}
+.linee{
+  width: 1035px;
+height: 0px;
+margin-top: 5px;
+margin-left: 0px;
+margin-bottom: 0%;
+/* Stokeee */
+
+border: 0.75px solid #E0E4EC;
+}
+.qth{
+  width: 130px;
+height: 20px;
+margin-left: 21px;
+margin-top: 8px;
+margin-bottom: 0%;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 20px;
+
+/* bbbbbbbb */
+
+color: #464255;
+}
+.qtt{
+  width: 120px;
+height: 20px;
+margin-left: 21px;
+margin-top: 8px;
+margin-bottom: 0%;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 20px;
+
+/* bbbbbbbb */
+
+color: #464255;
+}
+.action{
+  width: 45px;
+height: 20px;
+margin-left: 21px;
+margin-top: 8px;
+margin-bottom: 0%;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 20px;
+
+/* bbbbbbbb */
+
+color: #464255;
+}
+.fa{
+  width: 98px;
+height: 19px;
+margin-left: 21px;
+margin-top: 5px;
+margin-bottom: 0%;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+/* identical to box height */
+
+
+/* bbbbbbbb */
+
+color: #464255;
+}

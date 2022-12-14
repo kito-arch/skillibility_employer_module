@@ -1,0 +1,19 @@
+{
+  "name": "employer_module",
+  "version": "0.1.0",
+  "description": "Fancy Next.js app",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "build:static": "next build && next out"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.12.4",
+    "@mui/material": "^5.10.17",
+    "bootstrap": "^5.2.3",
+    "next": "^13.0.7-canary.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
