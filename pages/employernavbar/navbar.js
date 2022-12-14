@@ -15,7 +15,7 @@ export default function EmployerNavbar() {
           <button className={styles.candidate}>Candidates</button>
           <button className={styles.testlibrary}>Test library</button>
           <div className={styles.profile}>
-            <Image src="/eprofile.png" height={40} width={40} />
+            <Image src="/hn.png" height={40} width={40} />
           </div>
           <div className={styles.dropdown}>
             <a
