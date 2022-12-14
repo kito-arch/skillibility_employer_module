@@ -230,9 +230,9 @@ color: #464255;
 .qtb{
   box-sizing: border-box;
 
-
+  background: #FAFBFC;
 width: 1035px;
-height: 125px;
+height: 145px;
 margin-left: 120px;
 margin-top: 5px;
 margin-bottom: 0%;
@@ -429,7 +429,7 @@ color: #464255;
 .action{
   width: 45px;
 height: 20px;
-margin-left: 21px;
+margin-left: 621px;
 margin-top: 8px;
 margin-bottom: 0%;
 
@@ -444,7 +444,7 @@ line-height: 20px;
 color: #464255;
 }
 .fa{
-  width: 98px;
+  width: 108px;
 height: 19px;
 margin-left: 21px;
 margin-top: 5px;
@@ -461,4 +461,57 @@ line-height: 19px;
 /* bbbbbbbb */
 
 color: #464255;
+}
+.amet{
+  width: 681px;
+height: 19px;
+margin-left: 43px;
+margin-top: 5px;
+margin-bottom: 0%;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+/* identical to box height */
+
+
+/* bbbbbbbb */
+
+color: #464255;
+}
+.amet2{
+  width: 681px;
+height: 19px;
+margin-left: 43px;
+margin-top: 5px;
+margin-bottom: 0%;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+/* identical to box height */
+
+
+/* bbbbbbbb */
+
+color: #464255;
+}
+.edit{
+  border: none;
+  margin-bottom: 0%;
+  margin-top: 5px;
+  margin-left: 55px;
+  background: #FAFBFC;
+}
+.trash
+{
+  border: none;
+  margin-bottom: 0%;
+  margin-top: 5px;
+  margin-left: 0px;
+  background: #FAFBFC;
 }

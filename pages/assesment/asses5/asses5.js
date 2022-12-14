@@ -17,7 +17,7 @@ export default function Asses4() {
           </button>
           <p className={styles.new}>Back</p>
           <button className={styles.nextarrow}>
-            <Image src="/ic.png" height={53} width={119} />
+            <Image src="/nextarr.png" height={53} width={119} />
           </button>
         </div>
 
@@ -35,7 +35,7 @@ export default function Asses4() {
           <p className={styles.line2}></p>
 
           <div className={styles.poly2}>
-            <Image src="/Polygon 6.png" height={50} width={50} />
+            <Image src="/Polygon 9.png" height={50} width={50} />
           </div>
           <p className={styles.line2}></p>
 
@@ -74,34 +74,45 @@ export default function Asses4() {
           {/* 2nd */}
           <div className="d-flex">
             <p className={styles.fa}>Free answer</p>
-            <p>
+            <p className={styles.amet}>
               Amet minim mollit non deserunt ullamco est sit aliqua dolor do
               amet sint.
             </p>
-            <button></button>
-            <button></button>
-            className={styles.qtb}
+            <button className={styles.edit}>
+              <Image src="/edit.png" height={19.83} width={19.83} />
+            </button>
+            <button className={styles.trash}>
+              <Image src="/trash.png" height={19.83} width={19.83} />
+            </button>
           </div>
           <p className={styles.linee}></p>
           {/* 3rd */}
           <div className="d-flex">
             <p className={styles.fa}>Multiple choice</p>
-            <p>Amet minim mollit non deserunt do amet sint.</p>
-            <button></button>
-            <button></button>
-            className={styles.qtb}
+            <p className={styles.amet2}>
+              Amet minim mollit non deserunt do amet sint.
+            </p>
+            <button className={styles.edit}>
+              <Image src="/edit.png" height={19.83} width={19.83} />
+            </button>
+            <button className={styles.trash}>
+              <Image src="/trash.png" height={19.83} width={19.83} />
+            </button>
           </div>
           <p className={styles.linee}></p>
           {/* 4th */}
           <div className="d-flex">
             <p className={styles.fa}>Video</p>
-            <p>
+            <p className={styles.amet}>
               Amet minim mollit non deserunt do amet Amet minim mollit non
               deserunt ullamco aliqua dolor do amet sint.{' '}
             </p>
-            <button></button>
-            <button></button>
-            className={styles.qtb}
+            <button className={styles.edit}>
+              <Image src="/edit.png" height={19.83} width={19.83} />
+            </button>
+            <button className={styles.trash}>
+              <Image src="/trash.png" height={19.83} width={19.83} />
+            </button>
           </div>
         </Box>
         {/* 6th sect */}
