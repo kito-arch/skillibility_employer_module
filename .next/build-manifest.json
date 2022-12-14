@@ -25,10 +25,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/assesment/asses6/asses6": [
+    "/assesment/asses7/asses7": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/assesment/asses6/asses6.js"
+      "static/chunks/pages/assesment/asses7/asses7.js"
     ]
   },
   "ampFirstPages": []
