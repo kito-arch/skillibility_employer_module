@@ -1,1 +1,0 @@
-self.__BUILD_MANIFEST = {__rewrites:{beforeFiles:[],afterFiles:[],fallback:[]},"/_error":["static\u002Fchunks\u002Fpages\u002F_error.js"],"/assesment/asses7/asses7":["static\u002Fchunks\u002Fpages\u002Fassesment\u002Fasses7\u002Fasses7.js"],sortedPages:["\u002F_app","\u002F_error","\u002Fassesment\u002Fasses7\u002Fasses7"]};self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()
